@@ -68,6 +68,13 @@ Relevant entries:
 "LFP Armor Kit (M1A2C)" = false
 "TUSK Armor (M1A2C)" = false
 
+| Round | Penetration | Velocity | ERA bypass |
+|---|---:|---:|---:|
+| M829E3 | 771 mm | 1565 m/s | 60% |
+| M829E4 | 847 mm | 1655 m/s | 85% |
+| M830 | 550 mm | 1140 m/s | |
+| M830A1 | 500 mm | 1400 m/s | |
+
 
 ## Features currently in development:
 
