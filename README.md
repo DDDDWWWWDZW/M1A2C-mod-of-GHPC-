@@ -28,18 +28,6 @@ M1A2C-1.3.1-official.zip
 
 3. Start the game.
 
-The folder should contain:
-
-```text
-M1A2C.dll
-M1A2C.m1pack
-```
-
-The DLL loads the model, textures and CITV monitor directly from M1A2C.m1pack
-in memory on startup. No loose OBJ or texture files are written to the Mods folder.
-```
-
-
 
 ## Contents
 
