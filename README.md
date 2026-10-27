@@ -13,11 +13,6 @@ Use the release asset:
 M1A2C-1.3.1-official.zip
 ```
 
-SHA-256:
-
-```text
-913BBDC0C11DF4A205256AAA37748CD385BCA11513B61564A7B26F5009B5A22E
-```
 
 ## Requirements
 
@@ -50,8 +45,15 @@ SHA-256:
 - Gen-3 gunner thermals, 1366x768 high-power FLIR and ~20x digital zoom
 - Turret-front wedge composite reinforcement
 - Olive paint scheme fixed for this release
+  ![Uploading 154a05a9064cc4af3966efe53e309610.png…]()
 
-Material tuning and paint selection are intentionally hidden in this release.
+
+## Features currently in development:
+
+1. Trophy Active Protection System
+2. Selectable camouflage skins
+3. XM1147 high-explosive rounds
+
 
 ## Notes
 
