@@ -56,6 +56,30 @@ in memory on startup. No loose OBJ or texture files are written to the Mods fold
   <img width="2560" height="1440" alt="154a05a9064cc4af3966efe53e309610" src="https://github.com/user-attachments/assets/e19475d4-d1a7-483e-94f4-2865b7e7d9bc" />
 
 
+Relevant entries:
+```ini
+[ M1A2C ]
+
+# Ammo selection
+"AP Ammo (M1A2C)" = "M829e3"    # M829e3 / M829e4
+"HEAT Ammo (M1A2C)" = "M830"   # M830 / M830A1
+"AP Round Count (M1A2C)" = 28
+"HEAT Round Count (M1A2C)" = 14
+"Vanilla Ammo Capacity (M1A2C)" = false
+
+# Thermals / CITV
+"FLIR Generation (M1A2C)" = 3
+"Digital Enhancement (M1A2C)" = true
+"Fixed Reticle Size (M1A2C)" = true
+"CITV (M1A2C)" = true
+"Rotate Azimuth (M1A2C)" = true
+"Smooth CITV Panning (M1A2C)" = true
+
+# Visuals
+"LFP Armor Kit (M1A2C)" = false
+"TUSK Armor (M1A2C)" = false
+
+
 ## Features currently in development:
 
 - 1. Trophy Active Protection System
