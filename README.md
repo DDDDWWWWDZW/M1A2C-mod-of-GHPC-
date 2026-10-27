@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="154a05a9064cc4af3966efe53e309610" src="https://github.com/user-attachments/assets/e19475d4-d1a7-483e-94f4-2865b7e7d9bc" />﻿# M1A2C for Gunner HEAT PC
+﻿# M1A2C for Gunner HEAT PC
 
 First official release: **1.3.1**.
 
@@ -45,7 +45,7 @@ M1A2C-1.3.1-official.zip
 - Gen-3 gunner thermals, 1366x768 high-power FLIR and ~20x digital zoom
 - Turret-front wedge composite reinforcement
 - Olive paint scheme fixed for this release
-
+  <img width="2560" height="1440" alt="154a05a9064cc4af3966efe53e309610" src="https://github.com/user-attachments/assets/e19475d4-d1a7-483e-94f4-2865b7e7d9bc" />
 
 
 ## Features currently in development:
