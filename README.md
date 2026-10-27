@@ -1,4 +1,4 @@
-# M1A2C for Gunner HEAT PC
+﻿# M1A2C for Gunner HEAT PC
 
 First official release: **1.3.1**.
 
@@ -16,7 +16,7 @@ M1A2C-1.3.1-official.zip
 SHA-256:
 
 ```text
-88925DA405786F58383DED3F70FD2AD6912733BBA8E055EEE682BF47B687099F
+7F5FCE0E018EEEE954C6C06FA602C36F9AA9BE46510848D63D12575D1C4471C3
 ```
 
 ## Install
@@ -63,3 +63,4 @@ Material tuning and paint selection are intentionally hidden in this release.
   personal use only.
 - This is a compiled distribution; modify/redistribute only with permission.
 - The developer archive with source and intermediate assets is kept separately.
+
