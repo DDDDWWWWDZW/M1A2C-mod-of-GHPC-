@@ -56,7 +56,8 @@ M1A2C-1.3.1-official.zip
 
 ## Notes
 
-- The mod models are sourced from War Thunder. I performed retopology and re-segmented the components to adapt them for in-game functionality.
+- The mod models are sourced from War Thunder. I performed retopology and re-segmented the components to adapt them for in-game functionality.All rights reserved. Redistribution, modification and commercial use
+are not permitted without written permission.
 - This is a compiled distribution; modify/redistribute only with permission.
 - The fire control system UI is referenced from:https://github.com/thebeninator/M1A1Abrams
 - If you wish to modify and release your own version based on my mod, please notify me.
