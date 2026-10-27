@@ -67,6 +67,7 @@ Relevant entries:
 # Visuals
 "LFP Armor Kit (M1A2C)" = false
 "TUSK Armor (M1A2C)" = false
+```
 
 | Round | Penetration | Velocity | ERA bypass |
 |---|---:|---:|---:|
@@ -82,7 +83,7 @@ Relevant entries:
 - 2. Selectable camouflage skins
 - 3. XM1147 high-explosive rounds
 - 4.Internal modeling of the 120mm cannon
-```
+
 
 ## Notes
 
