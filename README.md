@@ -2,8 +2,9 @@
 
 First official release: **1.3.1**.
 
-This repository distributes the **compiled/packaged build only**. Source code and
-development files are not included here.
+## Description
+- This mod is created by 芝士大嘴蛙（DDDDWWWWDZW）. It aims to add the M1A2C tank and its modified variants to GHPC, restoring its unique functions and armament. The initial vehicle model is retopologized by myself, based on the M1A2C model from War Thunder.
+- 一个M1A2C模组，带你进入富尔达2026，用m829e4把敌人狠狠上市吧！
 
 ## Download
 
@@ -17,8 +18,6 @@ M1A2C-1.3.1-official.zip
 ## Requirements
 
 - **MelonLoader 0.6.x (net35)**
-- Optional: **PactIncreasedLethality** for M829 ERA optimization. Without it the
-  base mod still loads, but the ERA-bypass optimization is inactive.
 
 ## Install
 
@@ -40,6 +39,7 @@ M1A2C-1.3.1-official.zip
   ballistic elevation
 - M256 120 mm gun
 - M829E3 / M829E4 APFSDS and M830 / M830A1 HEAT
+- Armor data and armor damage model adapted for the M1A2C
 - 42-round loadout: 18 + 18 + 6 racks, 28 AP + 14 HEAT
 - Optional TUSK armour with per-block hitzones and two-hit ATAR2 durability
 - Gen-3 gunner thermals, 1366x768 high-power FLIR and ~20x digital zoom
@@ -60,6 +60,8 @@ M1A2C-1.3.1-official.zip
 - The mod models are sourced from War Thunder. I performed retopology and re-segmented the components to adapt them for in-game functionality.
 - This is a compiled distribution; modify/redistribute only with permission.
 - The fire control system UI is referenced from:https://github.com/thebeninator/M1A1Abrams
+- If you wish to modify and release your own version based on my mod, please notify me.
+- This mod was created with the assistance of AI   感谢蓝色大肥鱼
 
 
 
