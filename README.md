@@ -1,7 +1,5 @@
 ﻿# M1A2C for Gunner HEAT PC
 
-First official release: **1.3.1**.
-
 ## Description
 - This mod is created by 芝士大嘴蛙（DDDDWWWWDZW）. It aims to add the M1A2C tank and its modified variants to GHPC, restoring its unique functions and armament. The initial vehicle model is retopologized by myself, based on the M1A2C model from War Thunder.
 - 一个M1A2C模组，带你进入富尔达2026，用m829e4把敌人狠狠上市吧！
@@ -50,9 +48,10 @@ M1A2C-1.3.1-official.zip
 
 ## Features currently in development:
 
-1. Trophy Active Protection System
-2. Selectable camouflage skins
-3. XM1147 high-explosive rounds
+- 1. Trophy Active Protection System
+- 2. Selectable camouflage skins
+- 3. XM1147 high-explosive rounds
+- 4.Internal modeling of the 120mm cannon
 
 
 ## Notes
