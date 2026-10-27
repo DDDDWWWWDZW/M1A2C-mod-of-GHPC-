@@ -16,7 +16,7 @@ M1A2C-1.3.1-official.zip
 SHA-256:
 
 ```text
-7F5FCE0E018EEEE954C6C06FA602C36F9AA9BE46510848D63D12575D1C4471C3
+913BBDC0C11DF4A205256AAA37748CD385BCA11513B61564A7B26F5009B5A22E
 ```
 
 ## Install
@@ -63,4 +63,5 @@ Material tuning and paint selection are intentionally hidden in this release.
   personal use only.
 - This is a compiled distribution; modify/redistribute only with permission.
 - The developer archive with source and intermediate assets is kept separately.
+
 
