@@ -40,7 +40,7 @@ M1A2C-1.3.1-official.zip
 - M256 120 mm gun
 - M829E3 / M829E4 APFSDS and M830 / M830A1 HEAT
 - Armor data and armor damage model adapted for the M1A2C
-- 42-round loadout: 18 + 18 + 6 racks, 28 AP + 14 HEAT
+- 42-round loadout
 - Optional TUSK armour with per-block hitzones and two-hit ATAR2 durability
 - Gen-3 gunner thermals, 1366x768 high-power FLIR and ~20x digital zoom
 - Turret-front wedge composite reinforcement
