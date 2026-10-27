@@ -36,21 +36,11 @@ SHA-256:
 
 3. Start the game.
 
-The folder should contain:
 
-```text
-M1A2C.dll
-M1A2C_GHPCv2.0.obj
-M1A2C_GHPCv2.0.mtl
-M1A2C_GHPCv2.0_tusk2.obj
-M1A2C_GHPCv2.0_tusk2.mtl
-materials.tsv
-textures/
-```
 
 ## Contents
 
-- War Thunder M1A2C visual model
+- M1A2C visual model
 - Independent CROWS weapon station with stabilized sight, laser rangefinder and
   ballistic elevation
 - M256 120 mm gun
@@ -65,10 +55,9 @@ Material tuning and paint selection are intentionally hidden in this release.
 
 ## Notes
 
-- The model/texture assets are War Thunder-derived and are for private,
-  personal use only.
+- The mod models are sourced from War Thunder. I performed retopology and re-segmented the components to adapt them for in-game functionality.
 - This is a compiled distribution; modify/redistribute only with permission.
-- The developer archive with source and intermediate assets is kept separately.
+- The fire control interface references:https://github.com/thebeninator/M1A1Abrams
 
 
 
