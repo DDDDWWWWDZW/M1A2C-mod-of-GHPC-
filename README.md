@@ -9,7 +9,7 @@
 Use the release asset:
 
 ```text
-M1A2C-1.3.1-official.zip
+M1A2C-1.3.2-official.zip
 ```
 
 
@@ -95,6 +95,7 @@ are not permitted without written permission.
 - The fire control system UI is referenced from:https://github.com/thebeninator/M1A1Abrams
 - If you wish to modify and release your own version based on my mod, please notify me.
 - This mod was created with the assistance of AI   感谢蓝色大肥鱼
+
 
 
 
