@@ -50,7 +50,7 @@ Relevant entries:
 [ M1A2C ]
 
 # Ammo selection
-"AP Ammo (M1A2C)" = "M829e3"    # M829e3 / M829e4
+"AP Ammo (M1A2C)" = "M829e3"    # M829e2/M829e3 / M829e4
 "HEAT Ammo (M1A2C)" = "M830"   # M830 / M830A1
 "AP Round Count (M1A2C)" = 28
 "HEAT Round Count (M1A2C)" = 14
@@ -65,12 +65,14 @@ Relevant entries:
 "Smooth CITV Panning (M1A2C)" = true
 
 # Visuals
-"LFP Armor Kit (M1A2C)" = false
+"LFP Armor Kit (M1A2C)" = false   # Install the lower-front-plate enhanced armour package.
+"Breech Armor Kit (M1A2C)" = false   # Provides additional protection around the turret breech.
 "TUSK Armor (M1A2C)" = false
 ```
 
 | Round | Penetration | Velocity | ERA bypass |
 |---|---:|---:|---:|
+| M829E2 | 680 mm | 1680 m/s | 0% |
 | M829E3 | 771 mm | 1565 m/s | 60% |
 | M829E4 | 847 mm | 1655 m/s | 85% |
 | M830 | 550 mm | 1140 m/s | |
