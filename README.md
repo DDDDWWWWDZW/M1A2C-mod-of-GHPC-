@@ -41,8 +41,11 @@ M1A2C-1.3.2-official.zip
 - Optional TUSK armour with per-block hitzones and two-hit ATAR2 durability
 - Gen-3 gunner thermals, 1366x768 high-power FLIR and ~20x digital zoom
 - Turret-front wedge composite reinforcement
+- Trophy Active Protection System as an optional feature, capable of intercepting non-kinetic projectiles travelling at roughly 1200 m/s or slower. It is mounted on both sides of the turret, with 4 rounds per side.
 - Olive paint scheme fixed for this release
   <img width="2560" height="1440" alt="154a05a9064cc4af3966efe53e309610" src="https://github.com/user-attachments/assets/e19475d4-d1a7-483e-94f4-2865b7e7d9bc" />
+  <img width="886" height="554" alt="image" src="https://github.com/user-attachments/assets/5391b0cd-65dd-4288-a646-32945e13160c" />
+
 
 
 Relevant entries:
@@ -68,6 +71,7 @@ Relevant entries:
 "LFP Armor Kit (M1A2C)" = false   # Install the lower-front-plate enhanced armour package.
 "Breech Armor Kit (M1A2C)" = false   # Provides additional protection around the turret breech.
 "TUSK Armor (M1A2C)" = false
+"Configuration (M1A2C)" = "TUSK + APS" # Default=M1A2C, TUSK=M1A2CTUSK, or TUSK + APS=M1A2C Trophy
 ```
 
 | Round | Penetration | Velocity | ERA bypass |
@@ -81,10 +85,9 @@ Relevant entries:
 
 ## Features currently in development:
 
-- 1. Trophy Active Protection System
-- 2. Selectable camouflage skins
-- 3. XM1147 high-explosive rounds
-- 4.Internal modeling of the 120mm cannon
+- 1. Selectable camouflage skins
+- 2. XM1147 high-explosive rounds
+- 3.Internal modeling of the 120mm cannon
 
 
 ## Notes
@@ -93,6 +96,7 @@ Relevant entries:
 are not permitted without written permission.
 - This is a compiled distribution; modify/redistribute only with permission.
 - The fire control system UI is referenced from:https://github.com/thebeninator/M1A1Abrams
+- The Active Protection System design references:https://github.com/AIM928/M1-Trophy
 - If you wish to modify and release your own version based on my mod, please notify me.
 - This mod was created with the assistance of AI   感谢蓝色大肥鱼
 
