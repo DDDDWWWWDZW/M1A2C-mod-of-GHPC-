@@ -1,7 +1,7 @@
 ﻿# M1A2C for Gunner HEAT PC
 
 ## Description
-- This mod is created by 芝士大嘴蛙（DDDDWWWWDZW）. It aims to add the M1A2C tank and its modified variants to GHPC, restoring its unique functions and armament. The initial vehicle model is retopologized by myself, based on the M1A2C model from War Thunder.
+- This mod is created by 芝士大嘴蛙（DDDDWWWWDZW）. It aims to add the M1A2C tank and its modified variants to GHPC, restoring its unique functions and armament. The initial vehicle model is retopologized by myself, based on the M1A2C model from War Thunder.Added a brand-new vehicle: M1A2C. One unit will automatically spawn on the shooting range map. On other maps, you can select and drive the M1A2C via the custom vehicle menu.
 - 一个M1A2C模组，带你进入富尔达2026，用m829e4把敌人狠狠上市吧！
 
 ## Download
