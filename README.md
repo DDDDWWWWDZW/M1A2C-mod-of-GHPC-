@@ -42,7 +42,7 @@ M1A2C-1.3.2-official.zip
 - Gen-3 gunner thermals, 1366x768 high-power FLIR and ~20x digital zoom
 - Turret-front wedge composite reinforcement
 - Trophy Active Protection System as an optional feature, capable of intercepting non-kinetic projectiles travelling at roughly 1200 m/s or slower. It is mounted on both sides of the turret, with 4 rounds per side.
-- Olive paint scheme fixed for this release
+- Optional Sand / Green Paint Schemes
   <img width="2560" height="1440" alt="154a05a9064cc4af3966efe53e309610" src="https://github.com/user-attachments/assets/e19475d4-d1a7-483e-94f4-2865b7e7d9bc" />
   <img width="886" height="554" alt="image" src="https://github.com/user-attachments/assets/5391b0cd-65dd-4288-a646-32945e13160c" />
   <img width="1436" height="534" alt="image" src="https://github.com/user-attachments/assets/e7958f6a-589e-4098-ba52-36c4f78250dc" />
@@ -79,8 +79,8 @@ Relevant entries:
 | Round | Penetration | Velocity | ERA bypass |
 |---|---:|---:|---:|
 | M829E2 | 680 mm | 1680 m/s | 0% |
-| M829E3 | 771 mm | 1565 m/s | 60% |
-| M829E4 | 847 mm | 1655 m/s | 85% |
+| M829E3 | 761 mm | 1565 m/s | 60% |
+| M829E4 | 837 mm | 1655 m/s | 85% |
 | M830 | 550 mm | 1140 m/s | |
 | M830A1 | 500 mm | 1400 m/s | |
 
