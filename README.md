@@ -34,6 +34,7 @@ M1A2C-1.3.2-official.zip
 - M1A2C visual model
 - Independent CROWS weapon station with stabilized sight, laser rangefinder and
   ballistic elevation
+- In commander view, press N to activate the CITV.
 - M256 120 mm gun
 - M829E3 / M829E4 APFSDS and M830 / M830A1 HEAT
 - Armor data and armor damage model adapted for the M1A2C
@@ -68,6 +69,7 @@ Relevant entries:
 "CITV (M1A2C)" = true
 "Rotate Azimuth (M1A2C)" = true
 "Smooth CITV Panning (M1A2C)" = true
+"Gunner 50x Zoom (M1A2C)" = false # Add an extra 50x thermal magnification step
 
 # Visuals
 "LFP Armor Kit (M1A2C)" = false   # Install the lower-front-plate enhanced armour package.
