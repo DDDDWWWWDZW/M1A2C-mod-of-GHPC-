@@ -44,7 +44,7 @@ M1A2C-1.3.2-official.zip
 - Turret-front wedge composite reinforcement
 - Trophy Active Protection System as an optional feature, capable of intercepting non-kinetic projectiles travelling at roughly 1200 m/s or slower. It is mounted on both sides of the turret, with 4 rounds per side.
 - Optional Sand / Green Paint Schemes
-  <img width="2560" height="1440" alt="154a05a9064cc4af3966efe53e309610" src="https://github.com/user-attachments/assets/e19475d4-d1a7-483e-94f4-2865b7e7d9bc" />
+  <img width="1820" height="1201" alt="a4a8297e2e1459fa42b492f60641d89c" src="https://github.com/user-attachments/assets/75682281-c6d1-4aef-8ef5-ab613aa4315c" />
   <img width="886" height="554" alt="image" src="https://github.com/user-attachments/assets/5391b0cd-65dd-4288-a646-32945e13160c" />
   <img width="1436" height="534" alt="image" src="https://github.com/user-attachments/assets/e7958f6a-589e-4098-ba52-36c4f78250dc" />
 
