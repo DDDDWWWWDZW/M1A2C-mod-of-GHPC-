@@ -1,4 +1,4 @@
-﻿# M1A2C for Gunner HEAT PC
+# M1A2C for Gunner HEAT PC
 
 ## Description
 - This mod is created by 芝士大嘴蛙（DDDDWWWWDZW）. It aims to add the M1A2C tank and its modified variants to GHPC, restoring its unique functions and armament. The initial vehicle model is retopologized by myself, based on the M1A2C model from War Thunder.
@@ -9,7 +9,7 @@
 Use the release asset:
 
 ```text
-M1A2C-1.4.0-official.zip
+M1A2C-1.5.0-official.zip
 ```
 
 
@@ -41,8 +41,30 @@ M1A2C-1.4.0-official.zip
 - Optional TUSK armour with per-block hitzones and two-hit ATAR2 durability
 - Gen-3 gunner thermals, 1366x768 high-power FLIR and ~20x digital zoom
 - Turret-front wedge composite reinforcement
-- Olive paint scheme fixed for this release
+- Redesigned 4K Olive and Sand paint schemes
+- Optional laser warning system
+- Toggleable CITV automatic rotation / target-search animation
+- Functional taillight effect
   <img width="2560" height="1440" alt="154a05a9064cc4af3966efe53e309610" src="https://github.com/user-attachments/assets/e19475d4-d1a7-483e-94f4-2865b7e7d9bc" />
+
+
+## Changelog — 1.5.0
+
+### Added
+
+1. Redesigned 4K textures for the Olive and Sand paint schemes.
+2. Optional laser warning system.
+3. Toggleable CITV automatic rotation / target-search animation.
+4. Taillight effect.
+
+### Fixed
+
+1. Fixed an incorrect hostile M1A2C spawn in the training mission.
+2. Commander first-person view is no longer blocked by the CROWS.
+
+### Notes
+
+1. The NATO three-tone camouflage is still in development. It is not included in this release because of unresolved bugs, and is planned for the next version.
 
 
 Relevant entries:
@@ -68,6 +90,7 @@ Relevant entries:
 "LFP Armor Kit (M1A2C)" = false   # Install the lower-front-plate enhanced armour package.
 "Breech Armor Kit (M1A2C)" = false   # Provides additional protection around the turret breech.
 "TUSK Armor (M1A2C)" = false
+"Paint Scheme (M1A2C)" = "Olive"  # Olive or Sand
 ```
 
 | Round | Penetration | Velocity | ERA bypass |
@@ -81,10 +104,9 @@ Relevant entries:
 
 ## Features currently in development:
 
-- 1. Trophy Active Protection System
-- 2. Selectable camouflage skins
-- 3. XM1147 high-explosive rounds
-- 4.Internal modeling of the 120mm cannon
+- 1. NATO three-tone camouflage
+- 2. XM1147 high-explosive rounds
+- 3. Internal modeling of the 120 mm cannon
 
 
 ## Notes
@@ -95,10 +117,3 @@ are not permitted without written permission.
 - The fire control system UI is referenced from:https://github.com/thebeninator/M1A1Abrams
 - If you wish to modify and release your own version based on my mod, please notify me.
 - This mod was created with the assistance of AI   感谢蓝色大肥鱼
-
-
-
-
-
-
-
