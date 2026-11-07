@@ -44,7 +44,8 @@ M1A2C-1.3.2-official.zip
 - Turret-front wedge composite reinforcement
 - Trophy Active Protection System as an optional feature, capable of intercepting non-kinetic projectiles travelling at roughly 1200 m/s or slower. It is mounted on both sides of the turret, with 4 rounds per side.
 - Optional Sand / Green Paint Schemes
-  <img width="1820" height="1201" alt="a4a8297e2e1459fa42b492f60641d89c" src="https://github.com/user-attachments/assets/75682281-c6d1-4aef-8ef5-ab613aa4315c" />
+
+  <img width="1779" height="892" alt="4d8bb81caf84856ade2e052e6b6267b7" src="https://github.com/user-attachments/assets/11ffc51c-91a3-4929-8fff-aae354d61a04" />
   <img width="886" height="554" alt="image" src="https://github.com/user-attachments/assets/5391b0cd-65dd-4288-a646-32945e13160c" />
   <img width="1436" height="534" alt="image" src="https://github.com/user-attachments/assets/e7958f6a-589e-4098-ba52-36c4f78250dc" />
 
@@ -70,6 +71,8 @@ Relevant entries:
 "Rotate Azimuth (M1A2C)" = true
 "Smooth CITV Panning (M1A2C)" = true
 "Gunner 50x Zoom (M1A2C)" = false # Add an extra 50x thermal magnification step
+"CITV Auto Rotate (M1A2C)" = true # Cosmetic left/right CITV scan animation.
+"Laser Warning (M1A2C)" = true # Warn when an enemy laser rangefinder hits the player vehicle.
 
 # Visuals
 "LFP Armor Kit (M1A2C)" = false   # Install the lower-front-plate enhanced armour package.
