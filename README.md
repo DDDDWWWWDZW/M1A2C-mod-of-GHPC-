@@ -78,7 +78,6 @@ Relevant entries:
 "Paint Scheme (M1A2C)" = "Sand" # Olive or Sand
 "LFP Armor Kit (M1A2C)" = false   # Install the lower-front-plate enhanced armour package.
 "Breech Armor Kit (M1A2C)" = false   # Provides additional protection around the turret breech.
-"TUSK Armor (M1A2C)" = false
 "Configuration (M1A2C)" = "TUSK + APS" # Default=M1A2C, TUSK=M1A2CTUSK, or TUSK + APS=M1A2C Trophy
 ```
 
