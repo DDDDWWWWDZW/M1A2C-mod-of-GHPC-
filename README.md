@@ -75,6 +75,7 @@ Relevant entries:
 "Laser Warning (M1A2C)" = true # Warn when an enemy laser rangefinder hits the player vehicle.
 
 # Visuals
+"Paint Scheme (M1A2C)" = "Sand" # Olive or Sand
 "LFP Armor Kit (M1A2C)" = false   # Install the lower-front-plate enhanced armour package.
 "Breech Armor Kit (M1A2C)" = false   # Provides additional protection around the turret breech.
 "TUSK Armor (M1A2C)" = false
