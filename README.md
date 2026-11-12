@@ -50,7 +50,7 @@ M1A2C-1.6.0-official.zip
 
 
   <img width="1779" height="892" alt="4d8bb81caf84856ade2e052e6b6267b7" src="https://github.com/user-attachments/assets/11ffc51c-91a3-4929-8fff-aae354d61a04" />
-  <img width="886" height="554" alt="image" src="https://github.com/user-attachments/assets/5391b0cd-65dd-4288-a646-32945e13160c" />
+  <img width="1470" height="840" alt="2f7fbea4abd03cc2bbc7f860a96fcf9b" src="https://github.com/user-attachments/assets/8a18b973-706f-42f7-a78d-56786ac41c16" />
   <img width="1436" height="534" alt="image" src="https://github.com/user-attachments/assets/e7958f6a-589e-4098-ba52-36c4f78250dc" />
 
 
