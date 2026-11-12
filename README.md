@@ -9,7 +9,7 @@
 Use the release asset:
 
 ```text
-M1A2C-1.3.2-official.zip
+M1A2C-1.6.0-official.zip
 ```
 
 
@@ -23,7 +23,7 @@ M1A2C-1.3.2-official.zip
 2. Extract the `M1A2C` folder from the zip into:
 
 ```text
-<GHPC install>\Bin\Mods\M1A2C
+<GHPC install>\Bin\Mods
 ```
 
 3. Start the game.
@@ -37,13 +37,18 @@ M1A2C-1.3.2-official.zip
 - In commander view, press N to activate the CITV.
 - M256 120 mm gun
 - M829E3 / M829E4 APFSDS and M830 / M830A1 HEAT
+- M1147 HEMP-T programmable airburst / impact rounds (enabled by default; Q menu)
+- 120 mm breech interior and damage model replacing the original 105 mm model
 - Armor data and armor damage model adapted for the M1A2C
 - 42-round loadout
 - Optional TUSK armour with per-block hitzones and two-hit ATAR2 durability
-- Gen-3 gunner thermals, 1366x768 high-power FLIR and ~20x digital zoom
+- Gen-3 gunner thermals, 1366x768 high-power FLIR, 12° default FOV, 2.4x first step and optional 50x digital zoom
 - Turret-front wedge composite reinforcement
 - Trophy Active Protection System as an optional feature, capable of intercepting non-kinetic projectiles travelling at roughly 1200 m/s or slower. It is mounted on both sides of the turret, with 4 rounds per side.
-- Optional Sand / Green Paint Schemes
+- Optional Olive / Sand / NATO 3-Color paint schemes
+- Animated antenna sway tied to vehicle motion
+- Visual wear on the Olive and Sand hull, plus improved turret stowage
+- CROWS muzzle-effect alignment and elevation limits (18° depression / 35° elevation)
 
   <img width="1779" height="892" alt="4d8bb81caf84856ade2e052e6b6267b7" src="https://github.com/user-attachments/assets/11ffc51c-91a3-4929-8fff-aae354d61a04" />
   <img width="886" height="554" alt="image" src="https://github.com/user-attachments/assets/5391b0cd-65dd-4288-a646-32945e13160c" />
@@ -59,6 +64,7 @@ Relevant entries:
 # Ammo selection
 "AP Ammo (M1A2C)" = "M829e3"    # M829e2/M829e3 / M829e4
 "HEAT Ammo (M1A2C)" = "M830"   # M830 / M830A1
+"M1147 AMP (M1A2C)" = true   # Use the mixed M1147/M830A1 loadout
 "AP Round Count (M1A2C)" = 28
 "HEAT Round Count (M1A2C)" = 14
 "Vanilla Ammo Capacity (M1A2C)" = false
@@ -75,7 +81,7 @@ Relevant entries:
 "Laser Warning (M1A2C)" = true # Warn when an enemy laser rangefinder hits the player vehicle.
 
 # Visuals
-"Paint Scheme (M1A2C)" = "Sand" # Olive or Sand
+"Paint Scheme (M1A2C)" = "Olive" # Olive / Sand / NATO 3-Color
 "LFP Armor Kit (M1A2C)" = false   # Install the lower-front-plate enhanced armour package.
 "Breech Armor Kit (M1A2C)" = false   # Provides additional protection around the turret breech.
 "Configuration (M1A2C)" = "TUSK + APS" # Default=M1A2C, TUSK=M1A2CTUSK, or TUSK + APS=M1A2C Trophy
@@ -88,13 +94,12 @@ Relevant entries:
 | M829E4 | 837 mm | 1655 m/s | 85% |
 | M830 | 550 mm | 1140 m/s | |
 | M830A1 | 500 mm | 1400 m/s | |
+| M1147 | 80 mm | 1150 m/s | |
 
 
 ## Features currently in development:
 
-- 1. Selectable camouflage skins
-- 2. XM1147 high-explosive rounds
-- 3.Internal modeling of the 120mm cannon
+- More M1A2C variants and refinements.
 
 
 ## Notes
