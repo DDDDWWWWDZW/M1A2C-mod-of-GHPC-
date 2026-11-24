@@ -50,7 +50,6 @@ M1A2C-1.6.5-official.zip
 - Reworked 4K Olive, Sand and NATO 3-Color paint textures with improved surface detail
 - Interior damage models for the FCS electronics and commander CITV, visible in AAR/X-ray views; a destroyed CITV disables the CITV sight
 - Auxiliary power unit (APU) with its own interior model: the APU keeps the vehicle powered when the engine is disabled; power is lost only when both the engine and APU are destroyed
-- New glass surface treatment
 
 
   <img width="1779" height="892" alt="4d8bb81caf84856ade2e052e6b6267b7" src="https://github.com/user-attachments/assets/11ffc51c-91a3-4929-8fff-aae354d61a04" />
