@@ -1,4 +1,4 @@
-﻿# M1A2C for Gunner HEAT PC
+# M1A2C for Gunner HEAT PC
 
 ## Description
 - This mod is created by 芝士大嘴蛙（DDDDWWWWDZW）. It aims to add the M1A2C tank and its modified variants to GHPC, restoring its unique functions and armament. The initial vehicle model is retopologized by myself, based on the M1A2C model from War Thunder.Added a brand-new vehicle: M1A2C. One unit will automatically spawn on the shooting range map. On other maps, you can select and drive the M1A2C via the custom vehicle menu.
@@ -9,7 +9,7 @@
 Use the release asset:
 
 ```text
-M1A2C-1.6.0-official.zip
+M1A2C-1.6.5-official.zip
 ```
 
 
@@ -47,6 +47,10 @@ M1A2C-1.6.0-official.zip
 - Trophy Active Protection System as an optional feature, capable of intercepting non-kinetic projectiles travelling at roughly 1200 m/s or slower. It is mounted on both sides of the turret, with 4 rounds per side.
 - Optional Olive / Sand / NATO 3-Color paint schemes
 - Animated antenna sway tied to vehicle motion
+- Reworked 4K Olive, Sand and NATO 3-Color paint textures with improved surface detail
+- Interior damage models for the FCS electronics and commander CITV, visible in AAR/X-ray views; a destroyed CITV disables the CITV sight
+- Auxiliary power unit (APU) with its own interior model: the APU keeps the vehicle powered when the engine is disabled; power is lost only when both the engine and APU are destroyed
+- New glass surface treatment
 
 
   <img width="1779" height="892" alt="4d8bb81caf84856ade2e052e6b6267b7" src="https://github.com/user-attachments/assets/11ffc51c-91a3-4929-8fff-aae354d61a04" />
@@ -89,12 +93,22 @@ Relevant entries:
 | Round | Penetration | Velocity | ERA bypass |
 |---|---:|---:|---:|
 | M829E2 | 680 mm | 1680 m/s | 0% |
-| M829E3 | 761 mm | 1565 m/s | 60% |
-| M829E4 | 837 mm | 1655 m/s | 85% |
+| M829E3 | 771 mm | 1565 m/s | 50% |
+| M829E4 | 851 mm | 1655 m/s | 75% |
 | M830 | 550 mm | 1140 m/s | |
 | M830A1 | 500 mm | 1400 m/s | |
 | M1147 | 80 mm | 1150 m/s | |
 
+
+## Fixed / Changed in 1.6.5
+
+- Reworked the Olive, Sand and NATO 3-Color paint textures for better surface detail.
+- Added interior damage models for the FCS electronics and commander CITV.
+- Added the APU and its interior model, including engine-off power behavior.
+- Updated glass surface visuals.
+- Slightly reduced the ERA bypass of M829E3/M829E4 while increasing their maximum penetration to 771 mm / 851 mm.
+- Fixed the mismatch between the AP projectile impact point and the FCS aim point.
+- Fixed the incorrect protection values on the lower side TUSK armor blocks.
 
 ## Features currently in development:
 
